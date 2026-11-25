@@ -2,7 +2,7 @@
 Arrival: December 4, 2026 (~12 weeks old)  
 Clinic: Dr. Barkham, Paint Creek Animal Clinic (Rochester, MI)
 
-This is a practical template. Confirm all vaccine timing, feeding amounts, spay timing, and parasite protocols with Dr. Barkham. Bring breeder records to the first visit.
+This is a practical template. We'll adjust all vaccine timing, feeding amounts, spay timing, and parasite protocols with Dr. Barkham. Bring breeder records to the first visit.
 
 ### Equipment Focus: Crate, Carriage/Carrier & Toys
 These support safety, sleep, house training, and confidence.
@@ -54,4 +54,4 @@ After the first 4 weeks, shift to weekly focus while keeping the daily potty-fee
 - **Spay**: For a small-breed female, many vets (including typical AAHA-aligned guidance) recommend before the first heat (~5–6 months) to maximize mammary tumor protection with low orthopedic risk. Final decision with Dr. Barkham.
 - **Daily constants** (all year): Fresh water, consistent schedule, positive reinforcement, supervised interactions with senior dog (if present), and coat care.
 
-Copy the tables above directly into any markdown viewer or document. Adjust dates and exact vaccine timing after your first appointment with Paint Creek Animal Clinic.
+
